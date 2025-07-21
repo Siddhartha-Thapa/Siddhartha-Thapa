@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="nodejs" width="70" height="70"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartha-thapa&show_icons=true&locale=en&layout=compact" alt="siddhartha-thapa" /></p>
+
 
 
 
