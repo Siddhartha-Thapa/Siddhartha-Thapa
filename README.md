@@ -1,4 +1,4 @@
-![logo](https://github.com/Siddhartha-Thapa/Siddhartha-Thapa/blob/main/siddhartha%20thapa.png)
+
 
 <h1 align="center">Hi 👋, I'm Siddhartha Thapa</h1>
 <h3 align="center">A passionate Computer Engineering student from Nepal</h3>
@@ -16,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/sid r tha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sid r tha" height="30" width="40" /></a>
-  <a href="https://instagram.com/___sidrtha___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sidrtha___" height="30" width="40" /></a>
+  <a href="https://instagram.com/___sidrtha___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sidrtha___" height="30" width="40" /></a> 
+   <a href="https://www.linkedin.com/in/siddhartha-thapa-b19001288/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="siddhartha-thapa" height="30" width="40" /></a>
 </p>
 
 ---
